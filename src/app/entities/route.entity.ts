@@ -18,6 +18,5 @@ export class Route {
 
   private set title(value: string) {
     this.props.title = value;
-  }
-  
+  }  
 }
